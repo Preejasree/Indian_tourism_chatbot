@@ -34,7 +34,7 @@ model = ChatHuggingFace(
         repo_id="meta-llama/Llama-3.1-8B-Instruct",
         huggingfacehub_api_token=HF_token,
         temperature=0.2,
-        max_new_tokens=600,
+        max_new_tokens=900
     )
 )
 
