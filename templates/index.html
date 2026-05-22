@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot Template HTML CSS</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  
+</head>
+<body>
+  <!-- HERO SECTION -->
+
+  <section class="hero">
+
+    <div class="overlay">
+
+      <nav>
+        <h2>Incredible India</h2>
+
+        <ul>
+          <li>Home</li>
+          <li>Destinations</li>
+          <li>Packages</li>
+          <li>Contact</li>
+        </ul>
+      </nav>
+
+      <div class="hero-content">
+        <h1>Explore the Beauty of India</h1>
+
+        <p>
+          Beaches • Mountains • Heritage • Adventure • Culture
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- POPULAR DESTINATIONS -->
+
+  <section class="destinations">
+
+  <h2>Popular Indian Destinations</h2>
+
+  <div class="destination-container">
+
+    <div class="destination-card">
+      <img src="{{ url_for('static', filename='images/kerala.jpg') }}">
+      <h3>Kerala</h3>
+      <p>Kochi • Munnar • Alleppey</p>
+    </div>
+
+    <div class="destination-card">
+      <img src="{{ url_for('static', filename='images/goa.jpg') }}">
+      <h3>Goa</h3>
+      <p>Panaji • Baga • Calangute</p>
+    </div>
+
+    <div class="destination-card">
+      <img src="{{ url_for('static', filename='images/rajasthan.jpg') }}">
+      <h3>Rajasthan</h3>
+      <p>Jaipur • Udaipur • Jaisalmer</p>
+    </div>
+
+    <div class="destination-card">
+      <img src="{{ url_for('static', filename='images/kashmir.jpg') }}">
+      <h3>Kashmir</h3>
+      <p>Srinagar • Gulmarg • Pahalgam</p>
+    </div>
+
+    <div class="destination-card">
+      <img src="{{ url_for('static', filename='images/tamilnadu.jpg') }}">
+      <h3>Tamil Nadu</h3>
+      <p>Chennai • Ooty • Madurai</p>
+    </div>
+
+    <div class="destination-card">
+      <img src="{{ url_for('static', filename='images/karnataka.jpg') }}">
+      <h3>Karnataka</h3>
+      <p>Bangalore • Mysore • Coorg</p>
+    </div>
+
+  </div>
+
+</section>
+
+   <!-- CHATBOT -->
+  <div class="chat-box">
+    <div class="chat-box-header">
+      <h3>Indian Tourism Assistant</h3>
+      <p id="close-btn">&times;</p>
+    </div>
+<div class="chat-box-body">
+      <div class="message bot">Hello! Welcome to Indian Tourism. I can help you explore states and cities in India, check weather updates, and plan your trip.</div>
+    </div>
+    <div class="chat-box-footer">
+      <input id="userInput" type="text" placeholder="Type your message...">
+      <button id="sendBtn">Send</button>
+    </div>
+  </div>
+  <div class="chat-button" id="chatBtn">💬</div>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

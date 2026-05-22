@@ -1,0 +1,334 @@
+,State,City,Name,Type,time needed to visit in hrs,Significance,Best Time to visit
+0,Delhi,Delhi,India Gate,War Memorial,0.5,Historical,Evening
+1,Delhi,Delhi,Humayun's Tomb,Tomb,2,Historical,Afternoon
+2,Delhi,Delhi,Akshardham Temple,Temple,5,Religious,Afternoon
+3,Delhi,Delhi,Waste to Wonder Park,Theme Park,2,Environmental,Evening
+4,Delhi,Delhi,Jantar Mantar,Observatory,2,Scientific,Morning
+5,Delhi,Delhi,Chandni Chowk,Market,3,Market,Afternoon
+6,Delhi,Delhi,Lotus Temple,Temple,1,Religious,Evening
+7,Delhi,Delhi,Red Fort,Fort,2,Historical,Afternoon
+8,Delhi,Delhi,Agrasen ki Baoli,Stepwell,1,Historical,Afternoon
+9,Delhi,Delhi,Sunder Nursery,Park,2,Botanical,Afternoon
+10,Delhi,Delhi,Garden of Five Senses,Park,2,Botanical,Morning
+11,Delhi,Delhi,Lodhi Garden,Park,1,Botanical,All
+12,Delhi,Delhi,National Gallery of Modern Art,Museum,3,Artistic,All
+13,Delhi,Delhi,National Zoological Park ,Zoo,3,Environmental,All
+14,Delhi,Delhi,Qutub Minar,Monument,1,Historical,Afternoon
+15,Delhi,Delhi,National Science Centre,Science,5,Scientific,All
+16,Maharastra,Mumbai,Marine Drive,Promenade,2,Scenic,Evening
+17,Maharastra,Mumbai,Gateway of India,Monument,1,Historical,All
+18,Maharastra,Mumbai,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,1,Historical,All
+19,Maharastra,Mumbai,Sanjay Gandhi National Park,National Park,3,Wildlife,All
+20,Maharastra,Mumbai,Siddhivinayak Temple,Temple,2,Religious,All
+21,Maharastra,Mumbai,Mahalaxmi Temple,Temple,1,Religious,All
+22,Maharastra,Mumbai,Haji Ali Dargah,Religious Shrine,2,Religious,All
+23,Maharastra,Mumbai,Chowpatty Beach,Beach,2,Recreational,Evening
+24,Maharastra,Mumbai,Essel World,Amusement Park,5,Recreational,All
+25,Maharastra,Mumbai,Elephanta Caves,Monument,4,Historical,All 
+26,Maharastra,Lonavala,Imagicaa,Amusement Park,5,Recreational,All
+27,Karnataka,Bangalore,Bangalore Palace,Palace,2,Historical,Morning
+28,Karnataka,Bangalore,Lalbagh Botanical Garden,Botanical Garden,1.5,Nature,Evening
+29,Karnataka,Bangalore,Cubbon Park,Park,1,Nature,Morning
+30,Karnataka,Bangalore,Vidhana Soudha,Government Building,0.5,Architectural,Morning
+31,Karnataka,Bangalore,ISKCON Temple Bangalore,Temple,1,Religious,Evening
+32,Telangana,Hyderabad,Charminar,Landmark,1,Historical,Morning
+33,Telangana,Hyderabad,Golconda Fort,Fort,2,Historical,Morning
+34,Telangana,Hyderabad,Hussain Sagar Lake,Lake,1,Scenic,Evening
+35,Telangana,Hyderabad,Ramoji Film City,Film Studio,4,Entertainment,All
+36,Telangana,Hyderabad,Salar Jung Museum,Museum,2,Historical,All
+37,Telangana,Hyderabad,Qutb Shahi Tombs,Tombs,1,Historical,Morning
+38,Telangana,Hyderabad,Birla Mandir,Temple,1,Religious,All
+39,Telangana,Hyderabad,Chowmahalla Palace,Palace,1.5,Historical,Morning
+40,Telangana,Hyderabad,Nehru Zoological Park,Zoo,3,Wildlife,Morning
+41,Telangana,Hyderabad,Lumbini Park,Park,1,Recreational,Evening
+42,West Bengal,Kolkata,Victoria Memorial,Museum,1.5,Historical,Morning
+43,West Bengal,Kolkata,Howrah Bridge,Bridge,0.5,Architectural,Anytime
+44,West Bengal,Kolkata,Indian Museum,Museum,2,Historical,Morning
+45,West Bengal,Kolkata,Dakshineswar Kali Temple,Temple,1,Religious,Morning
+46,West Bengal,Kolkata,Kalighat Kali Temple,Temple,1,Religious,Morning
+47,West Bengal,Kolkata,Eden Gardens,Cricket Ground,3,Sports,All
+48,West Bengal,Kolkata,Alipore Zoological Gardens,Zoo,2,Wildlife,Afternoon
+49,West Bengal,Kolkata,Science City Kolkata,Science,3,Educational,All
+50,West Bengal,Kolkata,Belur Math,Site,1.5,Religious,Morning
+51,West Bengal,Kolkata,Marble Palace,Palace,1,Historical,Afternoon
+52,Goa,Goa,Calangute Beach,Beach,2,Scenic,Evening
+53,Goa,Goa,Basilica of Bom Jesus,Church,1,Historical,Afternoon
+54,Goa,Goa,Fort Aguada,Fort,1.5,Historical,Morning
+55,Goa,Goa,Dudhsagar Falls,Waterfall,3,Nature,Afternoon
+56,Goa,Goa,Anjuna Beach,Beach,2,Scenic,Evening
+57,Goa,Goa,Chapora Fort,Fort,1,Historical,Evening
+58,Goa,Goa,Se Cathedral,Church,1,Historical,Afternoon
+59,Goa,Goa,Baga Beach,Beach,2,Scenic,Evening
+60,Goa,Goa,Arambol Beach,Beach,2,Scenic,Evening
+61,Goa,Goa,Palolem Beach,Beach,2,Scenic,Evening
+62,Goa,Goa,Colva Beach,Beach,2,Scenic,Evening
+63,Goa,Goa,Miramar Beach,Beach,1.5,Scenic,Evening
+64,Goa,Goa,Aguada Beach,Beach,2,Scenic,Evening
+65,Goa,Goa,Dr. Salim Ali Bird Santuary,Bird Sanctuary,2,Wildlife,Afternoon
+66,Gujarat,Ahmedabad,Sabarmati Ashram,Historical,1.5,Historical,Morning
+67,Gujarat,Dwarka,Dwarkadhish Temple,Temple,2,Religious,Evening
+68,Gujarat,Junagadh,Gir National Park,National Park,3,Wildlife,Morning
+69,Gujarat,Bhuj,White Desert,Site,2.5,Nature,Evening
+70,Gujarat,Vadodara,Laxmi Vilas Palace,Palace,2,Historical,Afternoon
+71,Gujarat,Somnath,Somnath Temple,Temple,2,Religious,Morning
+72,Gujarat,Rann of Kutch,Rann Utsav,Cultural,3,Cultural,Evening
+73,Gujarat,Kevadia,Statue of Unity,Monument,3,Historical,All
+74,Gujarat,Gandhinagar,Dandi Kutir,Museum,1.5,Historical,All
+75,Gujarat,Ahmedabad,Sabarmati Riverfront,Urban Development Project,1,Recreational,Evening
+76,Gujarat,Ahmedabad,Manek Chowk,Market,2,Food,Night
+77,Gujarat,Ahmedabad,Kankaria Lake,Lake,3,Recreational,Afternoon
+78,Gujarat,Ahmedabad,Science City,Science,7,Educational,All
+79,Rajasthan,Jaipur,Hawa Mahal,Palace,1,Architectural,Morning
+80,Rajasthan,Udaipur,City Palace,Palace,2,Historical,All
+81,Rajasthan,Jaisalmer,Jaisalmer Fort,Fort,2.5,Historical,All
+82,Rajasthan,Sawai Madhopur,Ranthambore National Park,Wildlife Sanctuary,3,Wildlife,All
+83,Rajasthan,Pushkar,Pushkar Lake,Temple,1.5,Religious,All
+84,Rajasthan,Ajmer,Ajmer Sharif Dargah,Shrine,1,Religious,All
+85,Rajasthan,Jodhpur,Mehrangarh Fort,Fort,2,Historical,All
+86,Rajasthan,Chittorgarh,Chittorgarh Fort,Fort,2,Historical,All
+87,Rajasthan,Mount Abu,Dilwara Temples,Temple,1,Religious,All
+88,Rajasthan,Bikaner,Junagarh Fort,Fort,2,Historical,All
+89,Rajasthan,Jaipur,Amber Fort,Fort,2,Historical,All
+90,Rajasthan,Jaipur,Jaigarh Fort,Fort,1.5,Historical,All
+91,Rajasthan,Udaipur,Lake Pichola,Lake,1,Nature,All
+92,Punjab,Amritsar,Golden Temple (Harmandir Sahib),Religious Site,1.5,Spiritual,All
+93,Punjab,Amritsar,Jallianwala Bagh,Memorial,1,Historical,Afternoon
+94,Punjab,Amritsar,Wagah Border,Border Crossing,2,Cultural,Evening
+95,Punjab,Chandigarh,Rock Garden,Sculpture Garden,2,Artistic,All
+96,Kerala,Alappuzha,Alappuzha Beach,Beach,1.5,Recreational,All
+97,Kerala,Munnar,Munnar Tea Gardens,Scenic Area,2,Nature,All
+98,Kerala,Kochi,Fort Kochi,Site,1,Historical,All
+99,Kerala,Thiruvananthapuram,Padmanabhaswamy Temple,Temple,1,Religious,All
+100,Kerala,Kozhikode,Kozhikode Beach,Beach,1.5,Recreational,All
+101,Kerala,Wayanad,Wayanad Wildlife Sanctuary,Wildlife Sanctuary,3,Wildlife,All
+102,Kerala,Thekkady,Periyar National Park,National Park,3,Wildlife,All
+103,Kerala,Kumarakom,Kumarakom Bird Sanctuary,Bird Sanctuary,2,Wildlife,All
+104,Kerala,Varkala,Varkala Beach,Beach,2,Recreational,All
+105,Kerala,Bekal,Bekal Fort,Fort,1.5,Historical,All
+106,Kerala,Kovalam,Kovalam Beach,Beach,2,Recreational,All
+107,Kerala,Kannur,St. Angelo Fort,Fort,1,Historical,All
+108,Kerala,Nelliyampathy,Seethargundu Viewpoint,Viewpoint,1,Nature,Morning
+109,Kerala,Kochi,Kerala Folklore Museum,Cultural,1.5,Cultural,All
+110,Kerala,Kochi,Wonderla Amusement Park,Amusement Park,5.5,Entertainment,All
+111,Karnataka,Mysore,Mysore Palace,Palace,2,Historical,All
+112,Karnataka,Hampi,Hampi Archaeological Ruins,Site,3,Historical,All
+113,Karnataka,Coorg,Abbey Falls,Waterfall,1,Nature,Morning
+114,Karnataka,Gokarna,Om Beach,Beach,2,Nature,All
+115,Karnataka,Chikmagalur,Mullayanagiri,Mountain Peak,3,Nature,All
+116,Karnataka,Badami,Badami Cave Temples,Cave,1.5,Religious,All
+117,Karnataka,Shivamogga,Jog Falls,Waterfall,1.5,Nature,Morning
+118,Karnataka,Mangalore,Panambur Beach,Beach,1.5,Recreational,All
+119,Karnataka,Murudeshwar,Murudeshwar Temple,Temple,1,Religious,All
+120,Karnataka,Bijapur,Gol Gumbaz,Mausoleum,1.5,Historical,All
+121,Karnataka,Bandipur,Bandipur National Park,National Park,3,Wildlife,Morning
+122,Karnataka,Halebidu,Halebidu Hoysaleswara Temple,Temple,1,Religious,All
+123,Maharastra,Pune,Shaniwar Wada,Fort,2,Historical,All
+124,Maharastra,Aurangabad,Ajanta Caves,Cave,3,Historical,Afternoon
+125,Maharastra,Nashik,Sula Vineyards,Vineyard,2,Recreational,Afternoon
+126,Maharastra,Shirdi,Sai Baba Temple,Temple,1.5,Religious,All
+127,Maharastra,Alibaug,Alibaug Beach,Beach,1.5,Recreational,Evening
+128,Maharastra,Ratnagiri,Ganapatipule Temple,Temple,1,Religious,All
+129,Maharastra,Nagpur,Deekshabhoomi,Monument,1,Religious,Afternoon
+130,Maharastra,Kolhapur,Mahalakshmi Temple,Temple,1,Religious,All
+131,Maharastra,Lonavala,Karla Caves,Cave,1.5,Historical,Afternoon
+132,Maharashtra,Tarkarli,Tarkarli Beach,Beach,2,Recreational,Evening
+133,Maharashtra,Satara,Kaas Plateau,Valley,2,Nature,Afternoon
+134,Maharashtra,Matheran,Echo Point,Viewpoint,1.5,Nature,Morning
+135,Maharashtra,Ajanta,Ellora Caves,Cave,3,Historical,Afternoon
+136,Madhya Pradesh,Khajuraho,Khajuraho Group of Monuments,Temples,2,Cultural,Afternoon
+137,Madhya Pradesh,Bhopal,Sanchi Stupa,Monument,1.5,Historical,Afternoon
+138,Madhya Pradesh,Indore,Rajwada Palace,Palace,1,Historical,Afternoon
+139,Madhya Pradesh,Gwalior,Gwalior Fort,Fort,2.5,Historical,Morning
+140,Madhya Pradesh,Ujjain,Mahakaleshwar Jyotirlinga,Temple,1.5,Religious,All
+141,Madhya Pradesh,Jabalpur,Dhuandhar Falls,Waterfall,1,Nature,Morning
+142,Madhya Pradesh,Pachmarhi,Bee Falls,Waterfall,1.5,Nature,Morning
+143,Madhya Pradesh,Kanha,Kanha National Park,Wildlife Sanctuary,3,Wildlife,Morning
+144,Madhya Pradesh,Bandhavgarh,Bandhavgarh National Park,National Park,3,Wildlife,Morning
+145,Madhya Pradesh,Orchha,Orchha Fort,Fort,1.5,Historical,Afternoon
+146,Madhya Pradesh,Mandu,Jahaz Mahal,Site,1,Historical,Afternoon
+147,Madhya Pradesh,Bhimbetka,Bhimbetka Rock Shelters,Prehistoric Site,2,Archaeological,Afternoon
+148,Madhya Pradesh,Amarkantak,Narmada Udgam Temple,Temple,1,Religious,All
+149,Madhya Pradesh,Chitrakoot,Chitrakoot Falls,Waterfall,1.5,Nature,Morning
+150,Himachal Pradesh,Shimla,The Ridge,Scenic Point,1,Recreational,Morning
+151,Himachal Pradesh,Manali,Solang Valley,Valley,2,Adventure,Morning
+152,Himachal Pradesh,dalhousie,Dalai Lama Temple,Temple,1.5,Religious,All
+153,Himachal Pradesh,Dalhousie,Khajjiar Lake,Lake,1.5,Nature,Morning
+154,Himachal Pradesh,Spiti Valley,Key Monastery,Monastery,1,Religious,Morning
+155,Himachal Pradesh,Kullu,Great Himalayan National Park,National Park,3,Wildlife,All
+156,Himachal Pradesh,Chamba,Chamera Lake,Lake,2,Recreational,Morning
+157,Himachal Pradesh,Kinnaur,Sangla Valley,Valley,2,Nature,Morning
+158,Himachal Pradesh,Kangra,Kangra Fort,Fort,2,Historical,All
+159,Himachal Pradesh,Palampur,Tea Gardens,Tea Plantation,1.5,Agricultural,Morning
+160,Himachal Pradesh,Mandi,Prashar Lake,Lake,1.5,Nature,Morning
+161,Himachal Pradesh,Bir Billing,Paragliding Site,Adventure Sport,2,Adventure,All
+162,Himachal Pradesh,McLeod Ganj,Triund Trek,Trekking,5,Adventure,Morning
+163,Himachal Pradesh,Manikaran,Manikaran Sahib,Gurudwara,1,Religious,Morning
+164,Himachal Pradesh,Narkanda,Hatu Peak,Viewpoint,2,Nature,All
+165,Himachal Pradesh,Barot,Barot Valley,Valley,2,Nature,Morning
+166,Himachal Pradesh,Shoja,Serolsar Lake,Lake,2.5,Nature,Morning
+167,Himachal Pradesh,Kufri,Kufri Fun World,Ski Resort,5,Recreational,All
+168,Uttarakhand,Nainital,Naini Lake,Lake,1.5,Nature,Morning
+169,Uttarakhand,Rishikesh,Laxman Jhula,Suspension Bridge,1,Cultural,Morning
+170,Uttarakhand,Haridwar,Har Ki Pauri,Ghat,1,Religious,All
+171,Uttarakhand,Dehradun,Robber's Cave,Cave,1.5,Nature,Morning
+172,Uttarakhand,Mussoorie,Kempty Falls,Waterfall,1.5,Nature,Morning
+173,Uttarakhand,Auli,Auli Ski Resort,Ski Resort,3,Adventure,Morning
+174,Uttarakhand,Badrinath,Badrinath Temple,Temple,1,Religious,All
+175,Uttarakhand,Almora,Binsar Wildlife Sanctuary,Wildlife Sanctuary,2,Wildlife,All
+176,Uttarakhand,Ranikhet,Chaubatia Gardens,Orchard,1,Recreational,All
+177,Uttarakhand,Jim Corbett,Jim Corbett National Park,National Park,3,Wildlife,All
+178,Uttarakhand,Uttarkashi,Gangotri Temple,Temple,1,Religious,All
+179,Uttarakhand,Chopta,Tungnath Temple,Temple,2,Religious,All
+180,Uttarakhand,Joshimath,Valley of Flowers,National Park,5,Nature,Morning
+181,Uttar Pradesh,Agra,Taj Mahal,Mausoleum,2,Historical,Morning
+182,Uttar Pradesh,Varanasi,Kashi Vishwanath Temple,Temple,1,Religious,All
+183,Uttar Pradesh,Lucknow,Bara Imambara,Monument,1.5,Historical,All
+184,Uttar Pradesh,Mathura,Krishna Janmabhoomi,Temple,1,Religious,All
+185,Uttar Pradesh,Ayodhya,Ram Janmabhoomi,Religious Site,1,Religious,All
+186,Uttar Pradesh,Vrindavan,Banke Bihari Temple,Temple,1,Religious,All
+187,Uttar Pradesh,Allahabad,Triveni Sangam,Confluence,1,Religious,Morning
+188,Uttar Pradesh,Jhansi,Jhansi Fort,Fort,1.5,Historical,All
+189,Uttar Pradesh,Sarnath,Dhamek Stupa,Monument,1,Historical,All
+190,Uttar Pradesh,Fatehpur Sikri,Buland Darwaza,Monument,2,Historical,Afternoon
+191,Uttar Pradesh,Noida,Okhla Bird Sanctuary,Bird Sanctuary,1.5,Wildlife,All
+192,Uttar Pradesh,Aligarh,Aligarh Fort,Fort,1,Historical,Afternoon
+193,Uttar Pradesh,Meerut,Augarnath Temple,Temple,1,Religious,All
+194,Uttar Pradesh,Kanpur,Allen Forest Zoo,Zoo,2,Wildlife,All
+195,Jammu and Kashmir,Srinagar,Dal Lake,Lake,2,Nature,Morning
+196,Ladakh,Leh,Pangong Tso,Lake,2,Nature,Morning
+197,Jammu and Kashmir,Pahalgam,Betaab Valley,Valley,2,Nature,All
+198,Jammu and Kashmir,Jammu,Vaishno Devi,Temple,5,Religious,All
+199,Jammu and Kashmir,Udhampur,Patnitop Height,Hill,2,Recreational,All
+200,Jammu and Kashmir,Anantnag,Amarnath Cave,Temple,6,Religious,All
+201,Ladakh,Leh,Thiksey Monastery,Monastery,1.5,Religious,All
+202,Ladakh,Nubra Valley,Nubra Valley,Valley,2,Nature,All
+203,Ladakh,Kargil,Kargil War Memorial,War Memorial,1,Historical,All
+204,Ladakh,Diskit,Diskit Monastery,Monastery,1,Religious,Morning
+205,Jammu and Kashmir,Kishtwar,Kishtwar National Park,National Park,3,Wildlife,All
+206,Ladakh,Hemis,Hemis National Park,National Park,4,Wildlife,All
+207,Ladakh,Dras,Dras War Memorial,War Memorial,1,Historical,All
+208,Ladakh,Leh,Magnetic Hill,Gravity Hill,0.5,Nature,All
+209,Ladakh,Leh,Khardung La Pass,Hill,1,Adventure,Afternoon
+210,Ladakh,Leh,Thiksey Monastery,Monastery,1.5,Religious,All
+211,Uttar Pradesh,Vrindavan,Prem Mandir,Temple,1.5,Religious,Evening
+212,Uttar Pradesh,Porbandar,Kirti Mandir,Memorial,1,Historical,Morning
+213,Uttar Pradesh,Mathura,Nand Gaon,Village,1,Cultural,Morning
+214,Uttar Pradesh,Mathura,Barsana Mandir,Temple,1,Religious,Morning
+215,West Bengal,Darjeeling,Tiger Hill,Sunrise Point,1,Nature,All
+216,West Bengal,Siliguri,Jaldapara National Park,Wildlife Sanctuary,3,Wildlife,All
+217,West Bengal,Sundarbans,Sundarbans National Park,National Park,4,Wildlife,All
+218,West Bengal,Digha,Digha Beach,Beach,1.5,Recreational,Morning
+219,West Bengal,Murshidabad,Hazarduari Palace,Palace,1.5,Historical,Morning
+220,West Bengal,Bolpur,Kankalitala Temple,Temple,0.5,Religious,All
+221,West Bengal,Hooghly,Hangseswari Temple,Temple,0.5,Architectural,All
+222,West Bengal,Jalpaiguri,Gorumara National Park,National Park,3,Wildlife,All
+223,West Bengal,Cooch Behar,Cooch Behar Palace,Palace,1,Historical,All
+224,West Bengal,Purulia,Ayodhya Hills,Hill,2.5,Nature,All
+225,Odisha,Puri,Jagannath Temple,Temple,2,Religious,All
+226,Odisha,Konark,Sun Temple,Temple,1.5,Historical,All
+227,Odisha,Bhubaneswar,Lingaraj Temple,Temple,1,Religious,All
+228,Odisha,Rourkela,Khandadhar Waterfall,Waterfall,1.5,Nature,All
+229,Odisha,Cuttack,Barabati Fort,Fort,1,Historical,All
+230,Odisha,Sambalpur,Hirakud Dam,Dam,1,Engineering Marvel,All
+231,Odisha,Chilika,Chilika Lake,Lake,2,Nature,Morning
+232,Odisha,Berhampur,Tara Tarini Temple,Temple,1,Religious,All
+233,Odisha,Keonjhar,Badaghagara Waterfall,Waterfall,1,Nature,Morning
+234,Odisha,Balasore,Chandipur Beach,Beach,1.5,Recreational,Morning
+235,Odisha,Kendujhar,Sanaghagara Waterfall,Waterfall,1,Nature,All
+236,Tamil Nadu,Chennai,Marina Beach,Beach,1.5,Recreational,Morning
+237,Tamil Nadu,Madurai,Meenakshi Amman Temple,Temple,2,Religious,All
+238,Tamil Nadu,Rameswaram,Ramanathaswamy Temple,Temple,1.5,Religious,All
+239,Tamil Nadu,Kanyakumari,Vivekananda Rock Memorial,Memorial,1,Historical,Morning
+240,Tamil Nadu,Ooty,Ooty Lake,Lake,1,Recreational,Morning
+241,Tamil Nadu,Coimbatore,Marudamalai Temple,Temple,1,Religious,All
+242,Tamil Nadu,Kodaikanal,Kodaikanal Lake,Lake,2,Recreational,Morning
+243,Tamil Nadu,Thanjavur,Brihadeeswarar Temple,Temple,1.5,Religious,All
+244,Tamil Nadu,Mahabalipuram,Shore Temple,Temple,1,Historical,All
+245,Tamil Nadu,Yercaud,Yercaud Lake,Lake,1,Recreational,Morning
+246,Tamil Nadu,Tirunelveli,Nellaiappar Temple,Temple,1,Religious,All
+247,Tamil Nadu,Chidambaram,Nataraja Temple,Temple,1,Religious,All
+248,Andhra Pradesh,Vijayawada,Kanaka Durga Temple,Temple,1,Religious,All
+249,Andhra Pradesh,Visakhapatnam,Rishikonda Beach,Beach,1.5,Recreational,Morning
+250,Andhra Pradesh,Srisailam,Mallikarjuna Swamy Temple,Temple,1,Religious,All
+251,Andhra Pradesh,Rajahmundry,Papikondalu,Hill,2,Nature,All
+252,Andhra Pradesh,Anantapur,Lepakshi,Site,1.5,Historical,All
+253,Andhra Pradesh,Kurnool,Belum Caves,Cave,1.5,Natural Wonder,Afternoon
+254,Andhra Pradesh,Amravati,Amaravathi Temple,Temple,1,Religious,All
+255,Andhra Pradesh,Guntur,Uppalapadu Bird Sanctuary,Bird Sanctuary,1,Wildlife,All
+256,Andhra Pradesh,Kadapa,Gandikota Fort,Fort,1.5,Historical,Morning
+257,Andhra Pradesh,Puttaparthi,Prasanthi Nilayam,Spiritual Center,1,Religious,All
+258,Andhra Pradesh,Vizianagaram,Simhachalam Temple,Temple,1,Religious,All
+259,Andhra Pradesh,Visakhapatnam,Kailasagiri,Hill,2,Recreational,All
+260,Andhra Pradesh,Visakhapatnam,Submarine Museum,Museum,1,Historical,All
+261,Andhra Pradesh,Visakhapatnam,Borra Caves,Cave,2,Natural Wonder,Afternoon
+262,Andhra Pradesh,Visakhapatnam,War Memorial,War Memorial,1,Historical,All
+263,Andhra Pradesh,Visakhapatnam,Indira Gandhi Zoological Park,Zoo,2,Wildlife,Afternoon
+264,Andhra Pradesh,Visakhapatnam,Matsyadarshini Aquarium,Aquarium,1,Recreational,All
+265,Andhra Pradesh,Visakhapatnam,Visakha Museum,Museum,1,Cultural,All
+266,Sikkim,Gangtok,Nathula Pass,Hill,2,Historical,Afternoon
+267,Sikkim,Pelling,Pemayangtse Monastery,Monastery,1,Religious,Morning
+268,Sikkim,Namchi,Char Dham,Religious Complex,2,Religious,All
+269,Sikkim,Gangtok,Rumtek Monastery,Monastery,1,Religious,Morning
+270,Sikkim,Ravangla,Buddha Park,Park,1,Cultural,All
+271,Sikkim,Gangtok,Baba Harbhajan Singh Temple,Temple,1,Religious,All
+272,Sikkim,Gangtok,Tsomgo Lake,Lake,2,Nature,Morning
+273,Assam,Guwahati,Kamakhya Temple,Temple,2,Religious,All
+274,Assam,Kaziranga,Kaziranga National Park,National Park,3,Wildlife,Morning
+275,Assam,Guwahati,Umananda Island,Island,1,Nature,Morning
+276,Assam,Sivasagar,Sivasagar Sivadol,Temple,1,Historical,All
+277,Assam,Majuli,Majuli Island,River Island,2,Cultural,Morning
+278,Assam,Manas,Manas National Park,National Park,3,Wildlife,Morning
+279,Assam,Hajo,Hayagriva Madhava Temple,Temple,1,Religious,All
+280,Assam,Guwahati,Pobitora Wildlife Sanctuary,Wildlife Sanctuary,2,Wildlife,All
+281,Arunachal Pradesh,Tawang,Tawang Monastery,Monastery,2,Religious,Morning
+282,Tripura,Agartala,Ujjayanta Palace,Palace,1.5,Historical,All
+283,Tripura,Dumboor,Dumboor Lake,Lake,1,Nature,Morning
+284,Tripura,Unakoti,Unakoti Rock Carvings,Rock Carvings,1.5,Historical,Morning
+285,Chhattisgarh,Bastar,Chitrakote Falls,Waterfall,1.5,Nature,Morning
+286,Nagaland,Dzükou Valley,Dzükou Valley,Valley,3,Trekking,Afternoon
+287,Puducherry,Puducherry,Promenade Beach,Beach,1,Recreational,Morning
+288,Puducherry,Auroville,Auroville,Township,2,Cultural,All
+289,Puducherry,Puducherry,Paradise Beach,Beach,1,Recreational,Morning
+290,Andaman and Nicobar Islands,Port Blair,Cellular Jail,Landmark,1.5,Historical,Afternoon
+291,Andaman and Nicobar Islands,Havelock Island,Radhanagar Beach,Beach,1,Nature,Morning
+292,Andaman and Nicobar Islands,Neil Island,Bharatpur Beach,Beach,1,Nature,Morning
+293,Andaman and Nicobar Islands,Baratang Island,Limestone Caves,Natural Feature,1.5,Nature,Morning
+294,Daman and Diu,Diu,Naida Caves,Cave,1,Nature,Afternoon
+295,Daman and Diu,Diu,Diu Fort,Fort,1.5,Historical,Afternoon
+296,Jharkhand,Deoghar,Baba Baidyanath Temple,Temple,1,Religious,All
+297,Jharkhand,Ranchi,Pahari Mandir,Temple,1,Religious,All
+298,Bihar,Bodh Gaya,Mahabodhi Temple,Temple,1.5,Religious,All
+299,Bihar,Patna,Sanjay Gandhi Biological Park,Zoo,2.5,Wildlife,All
+300,Bihar,Patna,Takhat Shri Harimandir Ji Patna Sahib,Gurudwara,1,Religious,All
+301,Bihar,Patna,Budhha Smriti Park,Park,1,Cultural,All
+302,Haryana,Gurugram,Kingdom of Dreams,Entertainment,3,Entertainment,Afternoon
+303,Haryana,Gurugram,Ambience Mall,Mall,2,Shopping,Afternoon
+304,Haryana,Gurugram,DLF CyberHub,Commercial Complex,2,Entertainment,Afternoon
+305,Delhi,New Delhi,Gurudwara Bangla Sahib,Gurudwara,1,Religious,All
+306,Uttarakhand,Kedarnath,Kedarnath,Temple,1.5,Religious,All
+307,Uttar Pradesh,Noida,DLF Mall of India,Mall,2,Shopping,All
+308,Uttar Pradesh,Greater Noida,The Grand Venice Mall,Mall,2,Shopping,All
+309,Karnataka,Bengaluru,Wonderla Amusement Park,Amusement Park,4,Entertainment,All
+310,Odisha,Bhubaneswar,Nandankanan Zoological Park,Zoo,3,Wildlife,Afternoon
+311,Karnataka,Bengaluru,Orion Mall,Mall,2,Shopping,All
+312,Telangana,Hyderabad,Inorbit Mall Cyberabad,Mall,2,Shopping,All
+313,Delhi,New Delhi,Jama Masjid,Mosque,1,Historical,All
+314,Tamil Nadu,Rameswaram,Ramanathaswamy Temple,Temple,1.5,Religious,All
+315,Uttar Pradesh,Greater Noida,Buddh International Circuit,Race Track,2,Sports,All
+316,Uttar Pradesh,Lucknow,Phoenix Palassio,Mall,2,Shopping,All
+317,Kerala,Kochi,LuLu International Shopping Mall,Mall,3,Shopping,All
+318,Delhi,New Delhi,Rail Museum,Museum,2,Cultural,Morning
+319,Meghalaya,Cherrapunji,Living Root Bridge,Natural Feature,2,Nature,Morning
+320,Gujarat,Gandhinagar,Akshardham,Temple,3,Religious,All
+321,Uttar Pradesh,Agra,Agra Fort,Fort,2,Historical,Afternoon
+322,Madhya Pradesh,Bhopal,Madhya Pradesh Tribal Museum,Museum,2,Cultural,All
+323,Rajasthan,Jaipur,City Palace,Palace,2,Historical,Morning
+324,Rajasthan,Jaipur,Albert Hall Museum,Museum,2,Historical,All
+325,Dadra and Nagar Haveli,Silvassa,Hirwavan garden,Garden,2,Nature,All
+326,Dadra and Nagar Haveli,Silvassa,Tribal Museum,Museum,2,Cultural,All
+327,Dadra and Nagar Haveli,Dadra,Vanganga Lake,Lake,2,Nature,All
+328,Lakshadweep,Kavaratti,Kavaratti Island,Island,2,Nature,All
+329,Lakshadweep,Lakshadweep,Amindivi Island,Island,2,Nature,All
+330,Lakshadweep,Lakshadweep,Agatti Island,Island,2,Nature,All
+331,Kashmir,Gulmarg,Gondola,cable car,2,Nature,Morning
+332,Kashmir,Pahalgam,Betaab Valley,Valley,2,Nature,All
