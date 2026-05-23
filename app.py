@@ -794,7 +794,7 @@ def chat():
             "- Travel plans for Indian cities\n"
             "- Weather updates\n"
             "- Places to visit\n\n"
-            "Just tell me a city like 'Goa' or 'Kerala' to begin!"
+            "Just tell me a State like 'Goa' or 'Kerala' or cities like Kochi, Ajmer to begin!"
         )
     })
 
